@@ -1,4 +1,8 @@
 # RStudio-Application
+
+Author: Wanjun Gu
+Proofread Credit to: Eli Lawrence
+
 The Max Word Limit of RStudio Application is 3000 Characters, so the full-length version of the essay is here.
 
 As a third-year undergraduate and physiology researcher, pursuing a double major in Chemical Engineering and Economics, I have used R as my primary programming language. Since high school, when I first became interested in data analysis and statistical modelling, I have been applying a multitude of R packages to my daily computational work for the past five years. I am experienced in terms of applying R to various fields of study, including but not limited to statistical analysis, linear algebra (Pracma), analytical chemistry, molecular simulation, machine learning (Keras), and web development (Shiny). Considering the versatility of R as a programming language, it has the potential for near-universal application.   
